@@ -1,0 +1,8 @@
+Setup:
+
+
+Run:
+python prog2.py
+
+view results:
+Results will be printed to the console and pushed to "report.txt"
