@@ -1,5 +1,19 @@
 Setup:
+create Twitter account if needed:
+https://twitter.com/signup
 
+create Twitter app:
+https://apps.twitter.com/
+-click on Keys and Access Tokens
+-create my access token
+-save these values:
+	Access Token
+	Access Token Secret
+	Consumer Key (API Key)
+	Consumer Secret (API Secret)
+  
+#install Python Twitter Tools:
+pip install twitter
 
 Run:
 python prog2.py
