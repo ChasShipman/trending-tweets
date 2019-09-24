@@ -1,3 +1,7 @@
+Goal:
+Determine the top 10 most popular hashtags within 10 minutes of listening to Twitter public
+stream “GET statuses/sample”. For each hashtag, print hashtag and number of tweets containing it
+
 Setup:
 create Twitter account if needed:
 https://twitter.com/signup
